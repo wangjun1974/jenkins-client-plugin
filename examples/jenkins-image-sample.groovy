@@ -100,7 +100,7 @@ void actualTest() {*/
                                 "sourceStrategy":[
                                     "from":[
                                         "kind":"DockerImage",
-                                        "name":"centos/ruby-25-centos7"
+                                        "name":"helper.cluster-0001.rhsacn.org:5000/centos/ruby-25-centos7"
                                     ]
                                 ]
                             ],
